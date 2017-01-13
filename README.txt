@@ -41,6 +41,6 @@ client.c
 
 -----------------------------------------------
 
-To compile the code, run the makefile: make -f make_serv_client
+To compile the code, run the makefile: make -f makefile
 Run the server by using the command line: ./server
 Run the client by using the command line: ./client
